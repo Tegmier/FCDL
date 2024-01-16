@@ -1,0 +1,545 @@
+cid,datahead,dataurl,creator,contributor
+1,   横浜市統計書　第15章　衛生及び環境       xlsx   ,/dataset/seisaku_15,統計情報課,統計情報課
+2,   環境衛生関係施設一覧       ZIP   ,/dataset/iryo_kankyodata,生活衛生課,生活衛生課
+3,   環境に関する市民意識調査       xlsx   CSV   ,/dataset/kankyo_shiminchousa,政策課,政策課
+4,   日常生活圏域等別データ    各年3月末時点における圏域別の人口及び介護認定者数、各割合    CSV   ,/dataset/kenko_default20220620,地域包括ケア推進課,地域包括ケア推進課
+5,   横浜市統計書　第10章　建物及び住宅       xlsx   ,/dataset/seisaku_10,統計情報課,統計情報課
+6,   横浜市統計書　第17章　司法及び治安       xlsx   ,/dataset/seisaku_17,統計情報課,統計情報課
+7,   令和５(2023)年　人口・世帯数       PDF   ,/dataset/seisaku_r5news,統計情報課,統計情報課
+8,   令和５(2023)年　外国人の人口       xlsx   ,/dataset/seisaku_r5gaikokujin,統計情報課,統計情報課
+9,   令和５(2023)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_r5cho,統計情報課,統計情報課
+10,   横浜市統計書　第20章　選挙、議会及び市職員       xlsx   ,/dataset/seisaku_20,統計情報課,統計情報課
+11,   人口動態（月次）－行政区       CSV   ZIP   ,/dataset/seisaku_jinko-dotai-tsuki,統計情報課,統計情報課
+12,   月間の人口の動き       xlsx   ,/dataset/seisaku_tsuki,統計情報課,統計情報課
+13,   月別火災発生件数       CSV   ,/dataset/seisaku_kasai,統計情報課,統計情報課
+14,   横浜市統計書　第14章　社会福祉       xlsx   ,/dataset/seisaku_14,統計情報課,統計情報課
+15,"   男女別人口及び世帯数－町丁    住民基本台帳に記載された世帯数・人口を町・丁（字にあたる丁）別に毎月末現在で集計したもの。推計人口とは一致しない。""町名""のうち""－""のレコードは、行政区の情報を表す。どの町にも計上されない人口や世帯が存在するため、行政区の数値と町の数値の合計が一致しない場合がある。    ZIP   ",/dataset/seisaku_toroku02,統計情報課,統計情報課
+16,   月別平均気温と降水量       CSV   ,/dataset/seisaku_kion-kosui,統計情報課,統計情報課
+17,   横浜市統計書　第１章　土地及び気象       xlsx   ,/dataset/seisaku_01,統計情報課,統計情報課
+18,   外国人人口－行政区    住民基本台帳に基づく毎月末現在の外国人人口。町丁別及び年齢別の数値の掲載はない。    CSV   ,/dataset/seisaku_toroku04,統計情報課,統計情報課
+19,   横浜市統計書　第９章　道路、運輸及び通信       xlsx   CSV   ,/dataset/seisaku_09,統計情報課,統計情報課
+20,   毎月の人口の推移（推計人口による）       xlsx   ,/dataset/seisaku_suii,統計情報課,統計情報課
+21,   横浜市統計書　第６章　商業       xlsx   ,/dataset/seisaku_06,統計情報課,統計情報課
+22,   救急出場件数と搬送人員       CSV   ,/dataset/seisaku_kyukyu,統計情報課,統計情報課
+23,   住民基本台帳人口       xlsx   ,/dataset/seisaku_juki,統計情報課,統計情報課
+24,   推計人口・世帯数【最新】       PDF   ,/dataset/seisaku_saishin-news,統計情報課,統計情報課
+25,   横浜市統計書　第２章　人口       xlsx   ,/dataset/seisaku_02,統計情報課,統計情報課
+26,   男女別人口及び世帯数－行政区    国勢調査結果を基に、出生・死亡・転出入等を加減した推計人口であり、住民基本台帳の登録者数とは一致しません。    CSV   ,/dataset/seisaku_suikei01,統計情報課,統計情報課
+27,   テイクアウト＆デリバリー横浜       CSV   ,/dataset/keizai_takeout,商業振興課,商業振興課
+28,   広報よこはま瀬谷区版2023（令和５）年発行分       TXT   ,/dataset/seya_seya2023,瀬谷区,瀬谷区
+29,   2023年（令和5年）広報よこはま緑区版       ZIP   ,/dataset/midori_2023,緑区,緑区
+30,   横浜市内の病院・一般診療所・歯科診療所名簿    横浜市内の医療施設名簿（病院・一般診療所・歯科診療所）    CSV   ,/dataset/iryo_iryoumeibo,医療安全課,医療安全課
+31,   令和５(2023)年　町丁別の年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_r5cho-nen,統計情報課,統計情報課
+32,   広報よこはま南区版       TXT   ,/dataset/minami_koho-minami-latest,南区,南区
+33,   【港北区】刊行物       TXT   ,/dataset/kohoku_hakkou,港北区,港北区
+34,   ヨコハマ議会だより（オープンデータ）       TXT   CSV   ,/dataset/shikai_dayori,議会局,議会局
+35,   2023年11月号       TXT   ,/dataset/kanazawa_202311,金沢区,金沢区
+36,   2023（令和５）年分       PDF   ZIP   ,/dataset/tsuzuki_r5tzkoho,都筑区,都筑区
+37,   最新号（広報よこはま都筑区版2023（令和５）年11月号）       PDF   ZIP   ,/dataset/tsuzuki_tzkohosaishingou,都筑区,都筑区
+38,   広報よこはま青葉区版　令和5年（2023年）分       ZIP   ,/dataset/aoba_kohoaoba2023,青葉区,青葉区
+39,   2023（令和5）年11月号       TXT   ,/dataset/izumi_koyoko202311,泉区,泉区
+40,   横浜市統計書　第12章　物価及び家計       xlsx   ,/dataset/seisaku_12,統計情報課,統計情報課
+41,   横浜市統計書　第16章　教育及び文化       xlsx   ,/dataset/seisaku_16,統計情報課,統計情報課
+42,   横浜市統計書　第８章　貿易及び港湾       xlsx   ,/dataset/seisaku_08,統計情報課,統計情報課
+43,   横浜市統計書　第13章　労働       xlsx   ,/dataset/seisaku_13,統計情報課,統計情報課
+44,   横浜市統計書　第７章　金融及び保険       xlsx   ,/dataset/seisaku_07,統計情報課,統計情報課
+45,   2023年９月号       TXT   ,/dataset/kanazawa_202309,金沢区,金沢区
+46,   市税決算額調       PDF   CSV   xlsx   XLS   ,/dataset/zaisei_kessan-dl,徴収対策課,徴収対策課
+47,   長期時系列データ（人口・世帯）       xlsx   ,/dataset/seisaku_choki,統計情報課,統計情報課
+48,   令和５(2023)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_r5nen,統計情報課,統計情報課
+49,   令和５(2023)年　世帯人員別世帯数（住民基本台帳による）       xlsx   ,/dataset/seisaku_r5setai,統計情報課,統計情報課
+50,   横浜市統計書　第18章　市民経済計算及び産業連関表       xlsx   ,/dataset/seisaku_18,統計情報課,統計情報課
+51,"   世帯人員別世帯数－町丁    住民基本台帳に基づく世帯数を町・丁（字にあたる丁）別世帯人員別に集計したもの。""町名""のうち""－""のレコードは、行政区の情報を表す。どの町にも計上されない人口や世帯が存在するため、行政区の数値と町の数値の合計が一致しない場合がある。    ZIP   ",/dataset/seisaku_toroku05,統計情報課,統計情報課
+52,   横浜市統計書　第４章　農林業及び漁業       xlsx   ,/dataset/seisaku_04,統計情報課,統計情報課
+53,"   年齢、男女別人口－町丁    住民基本台帳に基づく人口を町・丁（字にあたる丁）別年齢別に半期ごとに集計したもの。""町名""のうち""－""のレコードは、行政区の情報を表す。""年齢""のうち""100""は、「100歳以上」を意味する。どの町にも計上されない人口や世帯が存在するため、行政区の数値と町の数値の合計が一致しない場合がある。    ZIP   ",/dataset/seisaku_toroku03,統計情報課,統計情報課
+54,   ワンストップ財政情報（アニュアルレポート）       xlsx   ,/dataset/zaisei_onestopzaisei,財政課,財政課
+55,   はまふぅどナビ【最新号】    地産地消の情報誌、2018年７月【48号】～    docx   ,/dataset/kankyo_navi,農業振興課,農業振興課
+56,   旭中央地区「四季めぐり号」       ZIP   ,/dataset/doro_asahi-bus,都市交通課,都市交通課
+57,   横浜市中小企業融資のご案内    横浜市中小企業融資制度の融資件数と融資額の年度別実績    CSV   ,/dataset/keizai_yushi,金融課,金融課
+58,   横浜市の財務書類       PDF   ZIP   xlsx   ,/dataset/zaisei_zaimusyorui,財政課,財政課
+59,   2023月10月号       TXT   ,/dataset/kanazawa_202310,金沢区,金沢区
+60,   2023（令和5）年10月号       TXT   ,/dataset/izumi_koyoko202310,泉区,泉区
+61,   横浜市保有土地情報一覧    横浜市保有土地の情報について 資産名称、所在地、所管局名など ※令和４年度末時点の道路、河川、企業会計等以外の土地を掲載しています。    xlsx   PDF   ,/dataset/zaisei_hoyuutoti,ファシリティマネジメント推進課,ファシリティマネジメント推進課
+62,   横浜市統計書　第５章　製造業及び工業       xlsx   ZIP   ,/dataset/seisaku_05,統計情報課,統計情報課
+63,   令和５年度予算       PDF   xlsx   ZIP   ,/dataset/zaisei_r5,財政課,財政課
+64,   観光入込客数       CSV   ,/dataset/seisaku_irikomikyakusu,統計情報課,統計情報課
+65,   2023（令和5）年9月号       TXT   ,/dataset/izumi_koyoko202309,泉区,泉区
+66,   21大都市都市計画道路進捗状況       PDF   ,/dataset/doro_01182009,企画課,企画課
+67,   横浜市内の薬局、医薬品販売業者、高度管理医療機器等販売業・貸与業者、再生医療等製品販売業者 名簿       CSV   ,/dataset/iryo_yakumumeibo,医療安全課,医療安全課
+68,   災害時給水所    市内の災害時給水所の名前、位置データなどを掲載    CSV   ,/dataset/suidou_oukyu-kyusui,総務課,総務課
+69,   保育所・横浜保育室（設置数、在籍児童数及び待機児童数）       CSV   ,/dataset/seisaku_hoiku01,統計情報課,統計情報課
+70,   2023年８月号       TXT   ,/dataset/kanazawa_202308,金沢区,金沢区
+71,   2023（令和5）年8月号       TXT   ,/dataset/izumi_koyoko202308,泉区,泉区
+72,   2023年8月号       PDF   ,/dataset/hodogaya_2308,保土ケ谷区,保土ケ谷区
+73,   横浜市統計書　第３章　事業所       xlsx   ,/dataset/seisaku_03,統計情報課,統計情報課
+74,   横浜市の図書館（横浜市立図書館年報）2023    令和４年度横浜市立図書館の資料、利用に関する統計    CSV   ,/dataset/kyoiku_nenpou2023,企画運営課,企画運営課
+75,   横浜市の土地取引件数・面積       xlsx   ,/dataset/toshi_torihiki,企画課,企画課
+76,   2023（令和5）年7月号       TXT   ,/dataset/izumi_koyoko202307,泉区,泉区
+77,   2023年７月号       TXT   ,/dataset/kanazawa_202307,金沢区,金沢区
+78,   2023年７月号       TXT   ,/dataset/hodogaya_2307,保土ケ谷区,保土ケ谷区
+79,   丘陵部における行動実態調査    令和４年度に実施した神奈川区丘陵部調査の結果データ    CSV   ,/dataset/kanagawa_kyuryobutyousa,区政推進課,区政推進課
+80,   ◇福祉・保健（生活保護、国民年金、国民健康保険、生活衛生）       xlsx   CSV   ,/dataset/tsuzuki_opendate,総務課,総務課
+81,   市民経済計算（市内総生産等）       CSV   ,/dataset/seisaku_keizai-keisan,統計情報課,統計情報課
+82,   要介護認定者の推移       CSV   ,/dataset/seisaku_kaigo01,統計情報課,統計情報課
+83,   生活保護世帯、実人員の推移       CSV   ,/dataset/seisaku_seiho01,統計情報課,統計情報課
+84,   2023（令和5）年6月号       TXT   ,/dataset/izumi_koyoko202306,泉区,泉区
+85,   2023年６月号       TXT   ,/dataset/kanazawa_202306,金沢区,金沢区
+86,   2023年6月号       TXT   ,/dataset/hodogaya_2306,保土ケ谷区,保土ケ谷区
+87,   横浜市統計書　第11章　上下水道       xlsx   ,/dataset/seisaku_11,統計情報課,統計情報課
+88,   横浜市統計書　主要統計長期指標       xlsx   ,/dataset/seisaku_choki-1,統計情報課,統計情報課
+89,   令和４年度横浜市民意識調査       xlsx   CSV   ,/dataset/seisaku_ishiki2022,政策課,政策課
+90,   横浜市将来人口推計       XLS   ,/dataset/seisaku_jinkosuikei,政策課,政策課
+91,   ごみの分別を調べる       CSV   ,/dataset/shigen_dashikata,３Ｒ推進課,３Ｒ推進課
+92,   市民経済計算       xlsx   PDF   ,/dataset/seisaku_sna,統計情報課,統計情報課
+93,   消費者物価指数       CSV   ,/dataset/seisaku_bukka-shisu,統計情報課,統計情報課
+94,   2023年５月号       TXT   ,/dataset/kanazawa_202305,金沢区,金沢区
+95,   2023（令和5）年5月号       TXT   ,/dataset/izumi_koyoko202305,泉区,泉区
+96,   戸塚区小雀地区（ワゴン型路線バス新設）「こすずめ号」       ZIP   ,/dataset/doro_kosuzume-bus,都市交通課,都市交通課
+97,   都市計画道路の整備状況       PDF   ,/dataset/doro_tokeidou,企画課,企画課
+98,   横浜市公共建築物マネジメント白書    公共建築物の施設情報（令和２年度末時点）掲載項目 市民利用施設、社会福祉施設、学校施設の「施設の用途」「施設名称」「所在区」「竣工年度」「延床面積」「管理形態」「年平均利用者数※」「年平均利用率・稼働率等※」「年間総コスト（使用料等、その他（補助金、有償貸付料等）、指定管理料等、修繕・改修費等）※」「利用者 1...    xlsx   CSV   ,/dataset/zaisei_manejiment_hakusho,ファシリティマネジメント推進課,ファシリティマネジメント推進課
+99,   セーフティネット保証等認定のご案内    セーフティネット保証のための認定件数の年度別実績    CSV   ,/dataset/keizai_safety,金融課,金融課
+100,   令和４(2022)年　世帯人員別世帯数（住民基本台帳による）       xlsx   ,/dataset/seisaku_r4setai,統計情報課,統計情報課
+101,   令和４(2022)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_r4nen,統計情報課,統計情報課
+102,   令和４(2022)年　町丁別の年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_r4cho-nen,統計情報課,統計情報課
+103,   令和３(2021)年　町丁別の年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_r3cho-nen,統計情報課,統計情報課
+104,   着工新設住宅戸数       CSV   ,/dataset/seisaku_jutaku-chakko,統計情報課,統計情報課
+105,   財政状況資料集       xlsx   ,/dataset/zaisei_shiryoushu,財政課,財政課
+106,   平成29年度予算       PDF   XLS   ZIP   xlsx   ,/dataset/zaisei_29yosan,財政課,財政課
+107,   平成30年度予算       PDF   XLS   ZIP   ,/dataset/zaisei_30yosan,財政課,財政課
+108,   事業別行政コスト計算書       PDF   ,/dataset/zaisei_gyoukosu,財政課,財政課
+109,   横浜市に関する意識・生活行動実態調査       xlsx   ,/dataset/bunka_chosa,にぎわい創出戦略課,にぎわい創出戦略課
+110,   横浜市の長期財政推計       PDF   xlsx   ,/dataset/zaisei_tyoukisuikei,財政課,財政課
+111,   令和３年度予算       PDF   xlsx   ZIP   ,/dataset/zaisei_r3,財政課,財政課
+112,   令和４年度予算       PDF   xlsx   ZIP   ,/dataset/zaisei_r4,財政課,財政課
+113,   普通会計決算の概要       PDF   xlsx   ,/dataset/zaisei_futsu_kessan_gaiyo,財政課,財政課
+114,   決算カード（普通会計決算の状況）       PDF   ,/dataset/zaisei_card,財政課,財政課
+115,   平成26年度予算       PDF   XLS   ,/dataset/zaisei_26yosan,財政課,財政課
+116,   令和２年度予算       PDF   xlsx   ZIP   ,/dataset/zaisei_02yosan,財政課,財政課
+117,   平成28年度予算       PDF   XLS   xlsx   ,/dataset/zaisei_28yosan,財政課,財政課
+118,   横浜市の持続的な発展に向けた財政ビジョン（確定版）数値データ       xlsx   ,/dataset/zaisei_vision_suchideta,財政課,財政課
+119,   令和元年度予算（平成31年度予算）       PDF   xlsx   ZIP   ,/dataset/zaisei_31yosan,財政課,財政課
+120,   2023（令和5）年4月号       TXT   ,/dataset/izumi_koyoko202304,泉区,泉区
+121,   2023年４月号       TXT   ,/dataset/kanazawa_202304,金沢区,金沢区
+122,   港北福祉保健センターからのお知らせ       TXT   xlsx   ,/dataset/kohoku_center-oshirase,福祉保健課,福祉保健課
+123,   横浜市民の防災・減災の意識、取組に関するアンケート調査       CSV   ,/dataset/somu_enquete-r03,防災企画課,防災企画課
+124,   令和４(2022)年中の人口動態       xlsx   ,/dataset/seisaku_r4dotai,統計情報課,統計情報課
+125,   横浜市中期４か年計画2018～2021       PDF   TXT   ,/dataset/seisaku_chuki2018-,政策課,政策課
+126,   従業者数４人以上の製造業事業所－町丁       ZIP   ,/dataset/seisaku_kogyo01,統計情報課,統計情報課
+127,   人口動態（年次）       CSV   ,/dataset/seisaku_jinko-dotai,統計情報課,統計情報課
+128,   年齢、男女別人口－行政区       ZIP   ,/dataset/seisaku_suikei03,統計情報課,統計情報課
+129,   人口と世帯数の推移       CSV   ,/dataset/seisaku_jinko-setai-suii,統計情報課,統計情報課
+130,   有効求人倍率       CSV   ,/dataset/seisaku_rodo-kyujin,統計情報課,統計情報課
+131,   ごみ収集量の推移       CSV   ,/dataset/seisaku_gomi,統計情報課,統計情報課
+132,   平均消費支出（二人以上の世帯のうち勤労者世帯）       CSV   ,/dataset/seisaku_kakei-shohi,統計情報課,統計情報課
+133,   自動車台数と交通事故発生件数       CSV   ,/dataset/seisaku_kotsujiko,統計情報課,統計情報課
+134,   ◇目次、歴史年表、都筑区の主なデータ指標、人口（区別、推移、増加数、出生数、町丁別）       xlsx   CSV   ,/dataset/tsuzuki_opendate1,総務課,総務課
+135,   ◇統計調査（基幹統計調査について）、令和５年度の統計トピック       xlsx   CSV   ,/dataset/tsuzuki_opendate10,総務課,総務課
+136,   ◇福祉・保健（子どもと家庭支援）       xlsx   CSV   ,/dataset/tsuzuki_opendate8,総務課,総務課
+137,   ◇福祉・保健（高齢者・障害者支援、高齢者支援、介護保険、障害者支援）       xlsx   CSV   ,/dataset/tsuzuki_opendate5,総務課,総務課
+138,   ◇福祉・保健（福祉関係団体、医務・薬務・人口動態、健康づくり、感染症・届出状況、いわゆる「ごみ屋敷」）       xlsx   CSV   ,/dataset/tsuzuki_opendate6,総務課,総務課
+139,   ◇戸籍・住民登録、外国人人口、市税、地価、選挙       xlsx   CSV   ,/dataset/tsuzuki_opendate4,総務課,総務課
+140,   ◇生活と環境（緑・公園、用途地域、道路、学校、環境、自治会・町内会、ごみ、消防、警察、防災、自動車、市営地下鉄、文化施設）       xlsx   CSV   ,/dataset/tsuzuki_opendata3,総務課,総務課
+141,   ◇国勢調査（人口等基本集計、昼夜間人口、労働力、居住期間）、産業（事業所、商業、工業、農業）       xlsx   CSV   ,/dataset/tsuzuki_opendate2,総務課,総務課
+142,   2023年３月号       TXT   ,/dataset/kanazawa_202303,区政推進課,区政推進課
+143,   2023（令和5）年3月号       TXT   ,/dataset/izumi_koyoko202303,区政推進課,区政推進課
+144,   2023年１月号       TXT   ,/dataset/kanazawa_202301,金沢区,金沢区
+145,   2022年３月号    広報よこはま金沢区版３月号テキスト版    TXT   ,/dataset/kanazawa_202203,金沢区,金沢区
+146,   2023年２月号       TXT   ,/dataset/kanazawa_202302,金沢区,金沢区
+147,   2022年２月号    広報よこはま金沢区版２月号テキスト版    TXT   ,/dataset/kanazawa_202202,金沢区,金沢区
+148,   広報よこはま瀬谷区版2022（令和４）年８月号       TXT   ,/dataset/seya_seya2022_8,区政推進課,区政推進課
+149,   広報よこはま瀬谷区版2022（令和４）年１月号       TXT   ,/dataset/seya_seya2022_1,区政推進課,区政推進課
+150,   広報よこはま瀬谷区版2022（令和４）年７月号       TXT   ,/dataset/seya_seya2022_7,区政推進課,区政推進課
+151,   広報よこはま瀬谷区版2022（令和４）年９月号       TXT   ,/dataset/seya_seya2022_9,区政推進課,区政推進課
+152,   2023（令和5）年2月号       TXT   ,/dataset/izumi_koyoko202302,区政推進課,区政推進課
+153,   市・区の年齢別の人口（推計人口による、１月１日現在）       xlsx   ,/dataset/seisaku_suikei,統計情報課,統計情報課
+154,   令和４年度港南区区民意識調査       xlsx   ,/dataset/konan_ishiki,区政推進課,区政推進課
+155,   令和４(2022)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_r4cho,統計情報課,統計情報課
+156,   令和４(2022)年　外国人の人口       xlsx   ,/dataset/seisaku_r4gaikokujin,統計情報課,統計情報課
+157,   令和４(2022)年　人口・世帯数       PDF   ,/dataset/seisaku_r4news,統計情報課,統計情報課
+158,   2023（令和5）年1月号       TXT   ,/dataset/izumi_koyoko202301,区政推進課,区政推進課
+159,   2022（令和４）年分       PDF   ZIP   ,/dataset/tsuzuki_r4tzkoho,区政推進課,区政推進課
+160,   広報よこはま瀬谷区版2022（令和４）年12月号       TXT   ,/dataset/seya_seya2022_12,区政推進課,区政推進課
+161,   2023年1月号       TXT   ,/dataset/hodogaya_2301,区政推進課,区政推進課
+162,   広報よこはまあさひ区版（2022年分）       ZIP   ,/dataset/asahi_asahikuban-2022,区政推進課,区政推進課
+163,   横浜市環境管理計画年次報告書　資料編    環境に関するオープンデータ    ZIP   ,/dataset/kankyo_shiryou,政策課,政策課
+164,   広報よこはま栄区版2019年       TXT   ,/dataset/sakae_kohosakaekuban2019,栄区,栄区
+165,   広報よこはま栄区版2021年       TXT   ,/dataset/sakae_kohosakaekuban2021,栄区,栄区
+166,   広報よこはま栄区版2020年       TXT   ,/dataset/sakae_kohosakaekuban2020,栄区,栄区
+167,   広報よこはま栄区版2018年       TXT   ,/dataset/sakae_kohosakaekuban2018,栄区,栄区
+168,   広報よこはま栄区版2022年       TXT   ,/dataset/sakae_kohosakaekuban2022,栄区,栄区
+169,   横浜港統計オープンデータ（2021年）       ZIP   ,/dataset/kowan_yp_opendata_2021,物流運営課,物流運営課
+170,   市内住宅に係る集計表（住宅ストックの状況、住宅着工戸数、公的住宅戸数等）    市内住宅に係る集計表    xlsx   CSV   ,/dataset/kenchiku_jijou,住宅政策課,住宅政策課
+171,   横浜市民生活白書2019    横浜市民生活白書2019の掲載データ    xlsx   ,/dataset/seisaku_hakusyo2019,政策課,政策課
+172,   広報よこはま港南区版2022年       TXT   ,/dataset/konan_kouhou2022,区政推進課,区政推進課
+173,   2022年（令和4年）広報よこはま緑区版       ZIP   ,/dataset/midori_2022,緑区,緑区
+174,   広報よこはま青葉区版　令和4年（2022年）分       ZIP   ,/dataset/aoba_kohoaoba2022,青葉区,青葉区
+175,   広報よこはま瀬谷区版2022（令和４）年11月号       TXT   ,/dataset/seya_seya2022_11,区政推進課,区政推進課
+176,   2022年12月号       TXT   ,/dataset/kanazawa_202212,区政推進課,区政推進課
+177,   2022（令和4）年12月号       TXT   ,/dataset/izumi_koyoko202212,区政推進課,区政推進課
+178,   2022年12月号       TXT   ,/dataset/hodogaya_2212,区政推進課,区政推進課
+179,   横浜港統計オープンデータ（2016年）       ZIP   ,/dataset/kowan_yp_opendata_2016,物流運営課,物流運営課
+180,   横浜港統計オープンデータ（2018年）       ZIP   ,/dataset/kowan_yp_opendata_2018,物流運営課,物流運営課
+181,   横浜港統計オープンデータ（2015年）       ZIP   ,/dataset/kowan_yp_opendata_2015,物流運営課,物流運営課
+182,   横浜港統計オープンデータ（2014年）       ZIP   ,/dataset/kowan_yp_opendata_2014,物流運営課,物流運営課
+183,   横浜港統計オープンデータ（2013年）       ZIP   ,/dataset/kowan_yp_opendata_2013,物流運営課,物流運営課
+184,   横浜港統計オープンデータ（2019年）       ZIP   ,/dataset/kowan_yp_opendata_2019,物流運営課,物流運営課
+185,   横浜港統計オープンデータ（2012年）       ZIP   ,/dataset/kowan_yp_opendata_2012,物流運営課,物流運営課
+186,   横浜港統計オープンデータ（2011年）       ZIP   ,/dataset/kowan_yp_opendata_2011,物流運営課,物流運営課
+187,   横浜港統計オープンデータ（2017年）       ZIP   ,/dataset/kowan_yp_opendata_2017,物流運営課,物流運営課
+188,   横浜港統計オープンデータ（2020年）       ZIP   ,/dataset/kowan_yp_opendata_2020,物流運営課,物流運営課
+189,   平成24(2012)年中の人口動態       xlsx   ,/dataset/seisaku_h24dotai,統計情報課,統計情報課
+190,   平成28(2016)年中の人口動態       xlsx   ,/dataset/seisaku_h28dotai,統計情報課,統計情報課
+191,   平成30(2018)年中の人口動態       xlsx   ,/dataset/seisaku_h30dotai,統計情報課,統計情報課
+192,   平成27(2015)年中の人口動態       xlsx   ,/dataset/seisaku_h27dotai,統計情報課,統計情報課
+193,   平成17(2005)年中の人口動態       xlsx   ,/dataset/seisaku_h17dotai,統計情報課,統計情報課
+194,   令和３(2021)年中の人口動態       xlsx   ,/dataset/seisaku_r3dotai,統計情報課,統計情報課
+195,   平成23(2011)年中の人口動態       xlsx   ,/dataset/seisaku_h23dotai,統計情報課,統計情報課
+196,   平成19(2007)年中の人口動態       xlsx   ,/dataset/seisaku_h19dotai,統計情報課,統計情報課
+197,   平成21(2009)年中の人口動態       xlsx   ,/dataset/seisaku_h21dotai,統計情報課,統計情報課
+198,   平成20(2008)年中の人口動態       xlsx   ,/dataset/seisaku_h20dotai,統計情報課,統計情報課
+199,   平成26(2014)年中の人口動態       xlsx   ,/dataset/seisaku_h26dotai,統計情報課,統計情報課
+200,   令和２(2020)年中の人口動態       xlsx   ,/dataset/seisaku_r2dotai,統計情報課,統計情報課
+201,   平成25(2013)年中の人口動態       xlsx   ,/dataset/seisaku_h25dotai,統計情報課,統計情報課
+202,   令和元(2019)年中の人口動態       xlsx   ,/dataset/seisaku_h31dotai,統計情報課,統計情報課
+203,   平成22(2010)年中の人口動態       xlsx   ,/dataset/seisaku_h22dotai,統計情報課,統計情報課
+204,   平成18(2006)年中の人口動態       xlsx   ,/dataset/seisaku_h18dotai,統計情報課,統計情報課
+205,   平成29(2017)年中の人口動態       xlsx   ,/dataset/seisaku_h29dotai,統計情報課,統計情報課
+206,   2022（令和4）年11月号       TXT   ,/dataset/izumi_koyoko202211,区政推進課,区政推進課
+207,   広報よこはま瀬谷区版2022（令和４）年10月号       TXT   ,/dataset/seya_seya2022_10,区政推進課,区政推進課
+208,   2022年11月号       TXT   ,/dataset/kanazawa_202211,区政推進課,区政推進課
+209,   2022年11月号       TXT   ,/dataset/hodogaya_2211,区政推進課,区政推進課
+210,   2022（令和4）年10月号       TXT   ,/dataset/izumi_koyoko202210,区政推進課,区政推進課
+211,   平成30(2018)年　世帯人員別世帯数（住民基本台帳による）       xlsx   ,/dataset/seisaku_h30setai,統計情報課,統計情報課
+212,   平成29(2017)年　世帯人員別世帯数（住民基本台帳による）       xlsx   ,/dataset/seisaku_h29setai,統計情報課,統計情報課
+213,   平成31／令和元(2019)年　世帯人員別世帯数（住民基本台帳による）       xlsx   ,/dataset/seisaku_h31setai,統計情報課,統計情報課
+214,   平成16(2004)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h16cho-nen,統計情報課,統計情報課
+215,   平成17(2005)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h17nen,統計情報課,統計情報課
+216,   令和２(2020)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_r2nen,統計情報課,統計情報課
+217,   平成29(2017)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h29nen,統計情報課,統計情報課
+218,   平成26(2014)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h26cho,統計情報課,統計情報課
+219,   平成８(1996)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h8nen,統計情報課,統計情報課
+220,   平成19(2007)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h19nen,統計情報課,統計情報課
+221,   平成21(2009)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h21nen,統計情報課,統計情報課
+222,   平成25(2013)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h25nen,統計情報課,統計情報課
+223,   平成９(1997)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h9nen,統計情報課,統計情報課
+224,   平成13(2001)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h13nen,統計情報課,統計情報課
+225,   平成24(2012)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h24nen,統計情報課,統計情報課
+226,   平成16(2004)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h16nen,統計情報課,統計情報課
+227,   平成20(2008)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h20nen,統計情報課,統計情報課
+228,   平成12(2000)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h12cho-nen,統計情報課,統計情報課
+229,   平成14(2002)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h14cho,統計情報課,統計情報課
+230,   平成17(2005)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h17cho-nen,統計情報課,統計情報課
+231,   平成15(2003)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h15cho-nen,統計情報課,統計情報課
+232,   平成22(2010)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h22nen,統計情報課,統計情報課
+233,   平成20(2008)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h20cho-nen,統計情報課,統計情報課
+234,   平成20(2008)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h20cho,統計情報課,統計情報課
+235,   平成12(2000)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h12cho,統計情報課,統計情報課
+236,   平成30(2018)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h30nen,統計情報課,統計情報課
+237,   平成29(2017)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h29cho-nen,統計情報課,統計情報課
+238,   平成10(1998)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h10nen,統計情報課,統計情報課
+239,   平成27(2015)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h27nen,統計情報課,統計情報課
+240,   平成27(2015)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h27cho-nen,統計情報課,統計情報課
+241,   平成14(2002)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h14nen,統計情報課,統計情報課
+242,   平成25(2013)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h25cho-nen,統計情報課,統計情報課
+243,   平成24(2012)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h24cho,統計情報課,統計情報課
+244,   平成31・令和元(2019)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h31nen,統計情報課,統計情報課
+245,   令和３(2021)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_r3cho,統計情報課,統計情報課
+246,   平成30(2018)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h30cho-nen,統計情報課,統計情報課
+247,   平成27(2015)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h27cho,統計情報課,統計情報課
+248,   平成30(2018)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h30cho,統計情報課,統計情報課
+249,   平成25(2013)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h25cho,統計情報課,統計情報課
+250,   平成22(2010)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h22cho,統計情報課,統計情報課
+251,   令和２(2020)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_r2cho,統計情報課,統計情報課
+252,   平成29(2017)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h29cho,統計情報課,統計情報課
+253,   平成31・令和元(2019)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h31cho,統計情報課,統計情報課
+254,   平成18(2006)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h18nen,統計情報課,統計情報課
+255,   平成31・令和元(2019)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h31cho-nen,統計情報課,統計情報課
+256,   平成23(2011)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h23cho,統計情報課,統計情報課
+257,   平成23(2011)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h23nen,統計情報課,統計情報課
+258,   平成７(1995)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h7nen,統計情報課,統計情報課
+259,   平成24(2012)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h24cho-nen,統計情報課,統計情報課
+260,   平成28(2016)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h28cho,統計情報課,統計情報課
+261,   平成10(1998)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h10cho-nen,統計情報課,統計情報課
+262,   平成13(2001)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h13cho-nen,統計情報課,統計情報課
+263,   平成11(1999)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h11nen,統計情報課,統計情報課
+264,   平成14(2002)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h14cho-nen,統計情報課,統計情報課
+265,   平成10(1998)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h10cho,統計情報課,統計情報課
+266,   平成15(2003)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h15nen,統計情報課,統計情報課
+267,   平成19(2007)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h19cho-nen,統計情報課,統計情報課
+268,   平成15(2003)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h15cho,統計情報課,統計情報課
+269,   平成18(2006)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h18cho,統計情報課,統計情報課
+270,   平成17(2005)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h17cho,統計情報課,統計情報課
+271,   平成21(2009)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h21cho,統計情報課,統計情報課
+272,   平成22(2010)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h22cho-nen,統計情報課,統計情報課
+273,   平成11(1999)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h11cho-nen,統計情報課,統計情報課
+274,   平成12(2000)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h12nen,統計情報課,統計情報課
+275,   平成28(2016)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h28nen,統計情報課,統計情報課
+276,   平成21(2009)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h21cho-nen,統計情報課,統計情報課
+277,   平成26(2014)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h26cho-nen,統計情報課,統計情報課
+278,   平成23(2011)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h23cho-nen,統計情報課,統計情報課
+279,   平成13(2001)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h13cho,統計情報課,統計情報課
+280,   平成11(1999)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h11cho,統計情報課,統計情報課
+281,   平成16(2004)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h16cho,統計情報課,統計情報課
+282,   平成19(2007)年　町丁別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h19cho,統計情報課,統計情報課
+283,   平成26(2014)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_h26nen,統計情報課,統計情報課
+284,   平成28(2016)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h28cho-nen,統計情報課,統計情報課
+285,   平成18(2006)年　町丁別年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_h18cho-nen,統計情報課,統計情報課
+286,   2022年10月号       TXT   ,/dataset/kanazawa_202210,区政推進課,区政推進課
+287,   2022年10月号       TXT   ,/dataset/hodogaya_2210,区政推進課,区政推進課
+288,   令和元年度青葉区区民意識調査追加分析(令和２年度実施)       ZIP   ,/dataset/aoba_20210419161447507,区政推進課,区政推進課
+289,   令和３年度交通量調査       PDF   xlsx   ,/dataset/doro_r3,企画課,企画課
+290,   令和３(2021)年　年齢別人口（住民基本台帳による）       xlsx   ,/dataset/seisaku_r3nen,統計情報課,統計情報課
+291,   令和２(2020)年　世帯人員別世帯数（住民基本台帳による）       xlsx   ,/dataset/seisaku_r2setai,統計情報課,統計情報課
+292,   令和２(2020)年　町丁別の年齢別人口（住民基本台帳による）       CSV   ,/dataset/seisaku_r2cho-nen,統計情報課,統計情報課
+293,   平成25(2013)年　人口・世帯数       PDF   ,/dataset/seisaku_h25news,統計情報課,統計情報課
+294,   平成24(2012)年　人口・世帯数       PDF   ,/dataset/seisaku_h24news,統計情報課,統計情報課
+295,   平成26(2014)年　人口・世帯数       PDF   ,/dataset/seisaku_h26news,統計情報課,統計情報課
+296,   平成29(2017)年　外国人の人口       xlsx   ,/dataset/seisaku_h29gaikokujin,統計情報課,統計情報課
+297,   平成28(2016)年　人口・世帯数       PDF   ,/dataset/seisaku_h28news,統計情報課,統計情報課
+298,   令和３(2021)年　世帯人員別世帯数（住民基本台帳による）       xlsx   ,/dataset/seisaku_r3setai,統計情報課,統計情報課
+299,   平成29(2017)年　人口・世帯数       PDF   ,/dataset/seisaku_h29news,統計情報課,統計情報課
+300,   平成26(2014)年　外国人の人口       xlsx   ,/dataset/seisaku_h26gaikokujin,統計情報課,統計情報課
+301,   平成30(2018)年　人口・世帯数       PDF   ,/dataset/seisaku_h30news,統計情報課,統計情報課
+302,   平成31・令和元(2019)年　人口・世帯数       PDF   ,/dataset/seisaku_h31news,統計情報課,統計情報課
+303,   令和２(2020)年　人口・世帯数       PDF   ,/dataset/seisaku_r2news,統計情報課,統計情報課
+304,   平成28(2016)年　外国人の人口       xlsx   ,/dataset/seisaku_h28gaikokujin,統計情報課,統計情報課
+305,   令和３(2021)年　人口・世帯数       PDF   ,/dataset/seisaku_r3news,統計情報課,統計情報課
+306,   令和２(2020)年　外国人の人口       xlsx   ,/dataset/seisaku_r2gaikokujin,統計情報課,統計情報課
+307,   平成24(2012)年　外国人の人口       xlsx   ,/dataset/seisaku_h24gaikokujin,統計情報課,統計情報課
+308,   平成15(2003)年　外国人の人口       xlsx   ,/dataset/seisaku_h15gaikokujin,統計情報課,統計情報課
+309,   平成30(2018)年　外国人の人口       xlsx   ,/dataset/seisaku_h30gaikokujin,統計情報課,統計情報課
+310,   平成31・令和元(2019)年　外国人の人口       xlsx   ,/dataset/seisaku_h31gaikokujin,統計情報課,統計情報課
+311,   平成27(2015)年　外国人の人口       xlsx   ,/dataset/seisaku_h27gaikokujin,統計情報課,統計情報課
+312,   平成19(2007)年　外国人の人口       xlsx   ,/dataset/seisaku_h19gaikokujin,統計情報課,統計情報課
+313,   平成16(2004)年　外国人の人口       xlsx   ,/dataset/seisaku_h16gaikokujin,統計情報課,統計情報課
+314,   平成22(2010)年　外国人の人口       xlsx   ,/dataset/seisaku_h22gaikokujin,統計情報課,統計情報課
+315,   平成21(2009)年　外国人の人口       xlsx   ,/dataset/seisaku_h21gaikokujin,統計情報課,統計情報課
+316,   平成17(2005)年　外国人の人口       xlsx   ,/dataset/seisaku_h17gaikokujin,統計情報課,統計情報課
+317,   平成23(2011)年　外国人の人口       xlsx   ,/dataset/seisaku_h23gaikokujin,統計情報課,統計情報課
+318,   平成27(2015)年　人口・世帯数       PDF   ,/dataset/seisaku_h27news,統計情報課,統計情報課
+319,   平成25(2013)年　外国人の人口       xlsx   ,/dataset/seisaku_h25gaikokujin,統計情報課,統計情報課
+320,   平成14(2002)年　外国人の人口       xlsx   ,/dataset/seisaku_h14gaikokujin,統計情報課,統計情報課
+321,   平成20(2008)年　外国人の人口       xlsx   ,/dataset/seisaku_h20gaikokujin,統計情報課,統計情報課
+322,   令和３(2021)年　外国人の人口       xlsx   ,/dataset/seisaku_r3gaikokujin,統計情報課,統計情報課
+323,   平成18(2006)年　外国人の人口       xlsx   ,/dataset/seisaku_h18gaikokujin,統計情報課,統計情報課
+324,   平成14(2002)年　人口・世帯数       PDF   ,/dataset/seisaku_h14news,統計情報課,統計情報課
+325,   平成16(2004)年　人口・世帯数       PDF   ,/dataset/seisaku_h16news,統計情報課,統計情報課
+326,   平成15(2003)年　人口・世帯数       PDF   ,/dataset/seisaku_h15news,統計情報課,統計情報課
+327,   平成17(2005)年　人口・世帯数       PDF   ,/dataset/seisaku_h17news,統計情報課,統計情報課
+328,   平成23(2011)年　人口・世帯数       PDF   ,/dataset/seisaku_h23news,統計情報課,統計情報課
+329,   平成11(1999)年　人口・世帯数       PDF   ,/dataset/seisaku_h11news,統計情報課,統計情報課
+330,   平成10(1998)年　人口・世帯数       PDF   ,/dataset/seisaku_h10news,統計情報課,統計情報課
+331,   平成18(2006)年　人口・世帯数       PDF   ,/dataset/seisaku_h18news,統計情報課,統計情報課
+332,   平成12(2000)年　人口・世帯数       PDF   ,/dataset/seisaku_h12news,統計情報課,統計情報課
+333,   平成19(2007)年　人口・世帯数       PDF   ,/dataset/seisaku_h19news,統計情報課,統計情報課
+334,   平成20(2008)年　人口・世帯数       PDF   ,/dataset/seisaku_h20news,統計情報課,統計情報課
+335,   平成21(2009)年　人口・世帯数       PDF   ,/dataset/seisaku_h21news,統計情報課,統計情報課
+336,   平成22(2010)年　人口・世帯数       PDF   ,/dataset/seisaku_h22news,統計情報課,統計情報課
+337,   平成13(2001)年　人口・世帯数       PDF   ,/dataset/seisaku_h13news,統計情報課,統計情報課
+338,   選挙のあゆみ 第32集（オープンデータ）    令和３年に執行された４選挙の結果データ    xlsx   CSV   ,/dataset/senkyo_senkyonoayumi32-od,選挙課,選挙課
+339,   つるみ生活・防災マップ 令和３年１２月発行（オープンデータ）       CSV   ,/dataset/tsurumi_tsurumimap,区政推進課,区政推進課
+340,   2022年９月号       TXT   ,/dataset/kanazawa_202209,金沢区,金沢区
+341,   2022（令和4）年9月号       TXT   ,/dataset/izumi_koyoko202209,区政推進課,区政推進課
+342,   2022年9月号       TXT   ,/dataset/hodogaya_2209,区政推進課,区政推進課
+343,   2022年８月号    広報よこはま金沢区版８月号テキスト版    TXT   ,/dataset/kanazawa_202208,区政推進課,区政推進課
+344,   2022（令和４年）８月号       TXT   ,/dataset/izumi_koyoko202208,区政推進課,区政推進課
+345,   2022年8月号       TXT   ,/dataset/hodogaya_2208,区政推進課,区政推進課
+346,   広報よこはま瀬谷区版2022（令和４）年６月号       TXT   ,/dataset/seya_seya2022_6,区政推進課,区政推進課
+347,   2022年７月号       TXT   ,/dataset/kanazawa_202207,区政推進課,区政推進課
+348,   2022（令和４）年7月号       TXT   ,/dataset/izumi_kouyoko0202207,区政推進課,区政推進課
+349,   2022年7月号       TXT   ,/dataset/hodogaya_2207,区政推進課,区政推進課
+350,   2022年6月号       TXT   ,/dataset/hodogaya_2206,保土ケ谷区,保土ケ谷区
+351,   2022（令和4）年5月号       TXT   ,/dataset/izumi_kouyoko202205,区政推進課,区政推進課
+352,   2022（令和４）年6月号       TXT   ,/dataset/izumi_202206,区政推進課,区政推進課
+353,   広報よこはま瀬谷区版2022（令和４）年５月号       TXT   ,/dataset/seya_seya2022_5,区政推進課,区政推進課
+354,   2022年６月号    広報よこはま金沢区版６月号テキスト版    TXT   ,/dataset/kanazawa_202206,区政推進課,区政推進課
+355,   今後の人口の見通し推計（令和３年度）       xlsx   ,/dataset/seisaku_jinkounomitoshi,政策課,政策課
+356,   港南区区民意識調査       xlsx   ,/dataset/konan_past_ishiki,区政推進課,区政推進課
+357,   2022年5月号       TXT   ,/dataset/hodogaya_2205,区政推進課,区政推進課
+358,   広報よこはま瀬谷区版2022（令和４）年４月号       TXT   ,/dataset/seya_seya2022_4,区政推進課,区政推進課
+359,   2022年５月号    広報よこはま金沢区版５月号テキスト版    TXT   ,/dataset/kanazawa_202205,区政推進課,区政推進課
+360,   広報よこはま瀬谷区版2022（令和４）年３月号       TXT   ,/dataset/seya_seya2022_3,区政推進課,区政推進課
+361,   西区内の桜の写真       ZIP   ,/dataset/nishi_20150708133353,区政推進課,区政推進課
+362,   西区内の公園の写真       ZIP   ,/dataset/nishi_20150708133307,区政推進課,区政推進課
+363,   西区の公共施設写真       ZIP   ,/dataset/nishi_20150708133029,区政推進課,区政推進課
+364,   横浜駅周辺の写真       ZIP   ,/dataset/nishi_20150708132813,区政推進課,区政推進課
+365,   西区内の石碑・記念碑の写真       ZIP   ,/dataset/nishi_20150708133844,区政推進課,区政推進課
+366,   井伊直弼像・掃部山公園の写真       ZIP   ,/dataset/nishi_20150708132456,区政推進課,区政推進課
+367,   横浜市西区のオープンデータについて       ZIP   ,/dataset/nishi_opendata,区政推進課,区政推進課
+368,   みなとみらい21地区の夜景写真       ZIP   ,/dataset/nishi_20150708132138,区政推進課,区政推進課
+369,   西区内の橋梁の写真       ZIP   ,/dataset/nishi_20150708132715,区政推進課,区政推進課
+370,   西区内の季節のイベント写真    みなとみらい大盆踊り、西区虫の音を聞く会、西区キャンドルアート    ZIP   ,/dataset/nishi_20150708133931,区政推進課,区政推進課
+371,   西区内の坂の写真       ZIP   ,/dataset/nishi_20150708132630,区政推進課,区政推進課
+372,   西区内の紅葉写真       ZIP   ,/dataset/nishi_20150708133443,区政推進課,区政推進課
+373,   西区内の花の写真       ZIP   ,/dataset/nishi_20150708133536,区政推進課,区政推進課
+374,   みなとみらい21地区の写真       ZIP   ,/dataset/nishi_20150708132904,区政推進課,区政推進課
+375,   藤棚地区商店街の写真       ZIP   ,/dataset/nishi_20150708133217,区政推進課,区政推進課
+376,   西区在勤者アンケート       CSV   xlsx   ,/dataset/nishi_zaikin,区政推進課,区政推進課
+377,   2021年（令和3年）広報よこはま緑区版       ZIP   ,/dataset/midori_2021,緑区,緑区
+378,   広報よこはま・なか区版2021年       TXT   ,/dataset/naka_naka2021,中区,中区
+379,   広報よこはま・なか区版2019年       TXT   ,/dataset/naka_naka2019,中区,中区
+380,   広報よこはま・なか区版2020年       TXT   ,/dataset/naka_naka2020,中区,中区
+381,   2021年９月号    広報よこはま金沢区版９月号テキスト版    TXT   ,/dataset/kanazawa_202109,金沢区,金沢区
+382,   広報よこはま港南区版2021年       TXT   ,/dataset/konan_kouhou2021,港南区,港南区
+383,   広報よこはまあさひ区版（2021年分）       ZIP   ,/dataset/asahi_asahikuban-2021,区政推進課,区政推進課
+384,   2022年４月号    広報よこはま金沢区版４月号テキスト版    TXT   ,/dataset/kanazawa_202204,区政推進課,区政推進課
+385,   2022年4月号       TXT   ,/dataset/hodogaya_2204,区政推進課,区政推進課
+386,   2022（令和4）年４月号       TXT   ,/dataset/izumi_kouyoko202204,区政推進課,区政推進課
+387,   横浜水道130年史    「横浜水道130年史」に掲載されている統計資料の一部（経年推移データ）    CSV   ,/dataset/suidou_130nenshi,広報課,広報課
+388,   令和３年度横浜市民意識調査       xlsx   CSV   ,/dataset/seisaku_ishiki2021,政策課,政策課
+389,   2021年（令和３年）広報よこはま磯子区版（PDF）       TXT   ,/dataset/isogo_202101,区政推進課,区政推進課
+390,   【港北区】統計情報       xlsx   CSV   ,/dataset/kohoku_toukei,区政推進課,区政推進課
+391,   各種統計データ（旭区オープンデータ）    データでみるあさひ（各年３月発行）    CSV   ,/dataset/asahi_tokei-asahi-opendata,総務課,総務課
+392,   資源循環局公衆トイレマップ(Public Toilets Map)    よこはまっぷで公開している「資源循環局公衆トイレマップ(Public Toilets Map)」に掲載している公衆トイレの位置などのデータ    CSV   SHAPE   KML   ,/dataset/public-toilets-map,街の美化推進課,街の美化推進課
+393,   栄区民意識調査　クロス集計データ    栄区で行った民意識調査の調査結果の設問と属性のクロス集計データです。    xlsx   ZIP   ,/dataset/sakae_ishiki-crossshukei,区政推進課,区政推進課
+394,   栄区民意識調査　単純集計データ    栄区で行った民意識調査の調査結果の単純集計データです。    CSV   ZIP   ,/dataset/sakae_ishiki-tanjunshukei,区政推進課,区政推進課
+395,   広報よこはま瀬谷区版2022（令和４）年２月号       TXT   ,/dataset/seya_seya2022_2,区政推進課,区政推進課
+396,   2022（令和4）年3月号       TXT   ,/dataset/izumi_kouyoko202203,区政推進課,区政推進課
+397,   2022年3月号       TXT   ,/dataset/hodogaya_2203,区政推進課,区政推進課
+398,   2022（令和4）年２月号       TXT   ,/dataset/izumi_kouyoko202202,区政推進課,区政推進課
+399,   令和３年度版　発見つるみ！～データでみる鶴見区～（オープンデータ）       xlsx   CSV   ,/dataset/tsurumi_r3tsurumi-opendata,総務課,総務課
+400,   2022年2月号       TXT   ,/dataset/hodogaya_2202,区政推進課,区政推進課
+401,   2022（令和4）年１月号       TXT   ,/dataset/izumi_kouyoko202201,区政推進課,区政推進課
+402,   住宅事情３－４：住替えの状況    平成26年以降に入居した持家世帯の前住地の市内割合（平成30年） 平成26年以降に入居した借家世帯の前住地の市内割合（平成30年）    CSV   ,/dataset/kenchiku_jijou3-4,住宅政策課,住宅政策課
+403,   2022年1月号       TXT   ,/dataset/hodogaya_2201,区政推進課,区政推進課
+404,   2021（令和３）年分       PDF   ZIP   ,/dataset/tsuzuki_r3tzkoho,区政推進課,区政推進課
+405,   広報よこはま瀬谷区版2021（令和３）年12月号       TXT   ,/dataset/seya_seya2021_12_,区政推進課,区政推進課
+406,   2022年１月号    広報よこはま金沢区版１月号テキスト版    TXT   ,/dataset/kanazawa_202201,区政推進課,区政推進課
+407,   令和２年度横浜市民意識調査       xlsx   CSV   ,/dataset/seisaku_ishiki2020,政策課,政策課
+408,   平成30年度横浜市民意識調査       xlsx   ZIP   ,/dataset/seisaku_ishiki2018,政策課,政策課
+409,   令和元年度横浜市民意識調査       xlsx   ZIP   ,/dataset/seisaku_ishiki2019,政策課,政策課
+410,   令和２年度版　発見つるみ！～データでみる鶴見区～（オープンデータ）       xlsx   CSV   ,/dataset/tsurumi_hakkenntsurumi,総務課,総務課
+411,   環境に関する企業意識調査       xlsx   ,/dataset/kankyo_kigyouchousa,政策課,政策課
+412,   広報よこはま青葉区版　令和3年（2021年）分       ZIP   ,/dataset/aoba_kohoaoba2021,区政推進課,区政推進課
+413,   2021年12月号       TXT   ,/dataset/hodogaya_2112,区政推進課,区政推進課
+414,   広報よこはま瀬谷区版2021（令和３）年11月号       TXT   ,/dataset/seya_seya2021_11,区政推進課,区政推進課
+415,   2021年12月号    広報よこはま金沢区版１２月号テキスト版    TXT   ,/dataset/kanazawa_202112,区政推進課,区政推進課
+416,   2021（令和3）年１２月号       TXT   ,/dataset/izumi_kouyoko202112,区政推進課,区政推進課
+417,   広報よこはま瀬谷区版2021（令和３）年10月号       TXT   ,/dataset/seya_seya2021_10,区政推進課,区政推進課
+418,   2021年11月号    広報よこはま金沢区版11月号テキスト版    TXT   ,/dataset/kanazawa_202111,区政推進課,区政推進課
+419,   2021年11月号       TXT   ,/dataset/hodogaya_2111,区政推進課,区政推進課
+420,   広報よこはま瀬谷区版2021（令和３）年９月号       TXT   ,/dataset/seya_seya2021_9,区政推進課,区政推進課
+421,   2021年10月号    広報よこはま金沢区版10月号テキスト版    TXT   ,/dataset/kanazawa_202110,区政推進課,区政推進課
+422,   2021年10月号       TXT   ,/dataset/hodogaya_2110,区政推進課,区政推進課
+423,   横浜保育室       CSV   ,/dataset/kodomo_yshitsu-opendata,保育・教育運営課,保育・教育運営課
+424,   事業所内保育事業       CSV   ,/dataset/kodomo_jigyousyo-opendata,保育・教育運営課,保育・教育運営課
+425,   認定こども園       CSV   ,/dataset/kodomo_ninko-opendata,保育・教育運営課,保育・教育運営課
+426,   届出済認可外保育施設       CSV   ,/dataset/kodomo_ninkagai-opendata,保育・教育運営課,保育・教育運営課
+427,   小規模保育施設       CSV   ,/dataset/kodomo_syoukibo-opendata,保育・教育運営課,保育・教育運営課
+428,   家庭的保育事業       CSV   ,/dataset/kodomo_katei-opendata,保育・教育運営課,保育・教育運営課
+429,   認可保育所       CSV   ,/dataset/kodomo_ninka-opendata,保育・教育運営課,保育・教育運営課
+430,   新たな中期計画の策定　横浜市中期４か年計画2014～2017　数値データ       CSV   xlsx   ,/dataset/seisaku_date,政策課,政策課
+431,   広報よこはま瀬谷区版2021（令和３）年８月号       TXT   ,/dataset/seya_seya2021_8,区政推進課,区政推進課
+432,   2021年9月号       TXT   ,/dataset/hodogaya_2109,区政推進課,区政推進課
+433,   2021年8月号       TXT   ,/dataset/hodogaya_2108,区政推進課,区政推進課
+434,   2021年４月号    広報よこはま金沢区版４月号テキスト版    TXT   ,/dataset/kanazawa_202104,区政推進課,区政推進課
+435,   2021年５月号    広報よこはま金沢区版５月号テキスト版    TXT   ,/dataset/kanazawa_202105,区政推進課,区政推進課
+436,   2021年６月号    広報よこはま金沢区版６月号テキスト版    TXT   ,/dataset/kanazawa_202106,区政推進課,区政推進課
+437,   2021年７月号    広報よこはま金沢区版７月号テキスト版    TXT   ,/dataset/kanazawa_202107,区政推進課,区政推進課
+438,   2021年８月号    広報よこはま金沢区版８月号テキスト版    TXT   ,/dataset/kanazawa_202108,区政推進課,区政推進課
+439,   広報よこはま瀬谷区版2021（令和３）年７月号       TXT   ,/dataset/seya_seya2021_7,区政推進課,区政推進課
+440,   広報よこはま瀬谷区版2021（令和３）年４月号       TXT   ,/dataset/seya_seya2021_4,区政推進課,区政推進課
+441,   広報よこはま瀬谷区版2021（令和３）年５月号       TXT   ,/dataset/seya_seya2021_5,区政推進課,区政推進課
+442,   広報よこはま瀬谷区版2021（令和３）年６月号       TXT   ,/dataset/seya_seya2021_6,区政推進課,区政推進課
+443,   2021年7月号       TXT   ,/dataset/hodogaya_2107,区政推進課,区政推進課
+444,   2021年6月号       TXT   ,/dataset/hodogaya_2106,区政推進課,区政推進課
+445,   一括ダウンロード       CSV   xlsx   ZIP   ,/dataset/totsuka_download,区政推進課,区政推進課
+446,   2021年5月号       TXT   ,/dataset/hodogaya_2105,区政推進課,区政推進課
+447,   広報よこはま瀬谷区版2020（令和２）年２月号       TXT   ,/dataset/seya_seya2020_2,区政推進課,区政推進課
+448,   広報よこはま瀬谷区版2020（令和２）年５月号       TXT   ,/dataset/seya_seya2020_5,区政推進課,区政推進課
+449,   広報よこはま瀬谷区版2020（令和２）年４月号       TXT   ,/dataset/seya_seya2020_4,区政推進課,区政推進課
+450,   広報よこはま瀬谷区版2020（令和２）年７月号       TXT   ,/dataset/seya_seya2020_7,区政推進課,区政推進課
+451,   広報よこはま瀬谷区版2020（令和２）年９月号       TXT   ,/dataset/seya_seya2020_9,区政推進課,区政推進課
+452,   広報よこはま瀬谷区版2020（令和２）年６月号       TXT   ,/dataset/seya_seya2020_6,区政推進課,区政推進課
+453,   広報よこはま瀬谷区版2020（令和２）年10月号       TXT   ,/dataset/seya_seya2020_10,区政推進課,区政推進課
+454,   広報よこはま瀬谷区版2021（令和３）年３月号       TXT   ,/dataset/seya_seya2021_3,区政推進課,区政推進課
+455,   平成26年度交通量調査       PDF   ,/dataset/doro_h26,企画課,企画課
+456,   平成27年度交通量調査       PDF   ,/dataset/doro_h27,企画課,企画課
+457,   平成28年度交通量調査       PDF   ,/dataset/doro_h28,企画課,企画課
+458,   平成30年度交通量調査       PDF   ,/dataset/doro_h30,企画課,企画課
+459,   広報よこはま瀬谷区版2021（令和３）年２月号       TXT   ,/dataset/seya_seya2021_2,区政推進課,区政推進課
+460,   平成24年度交通量調査       PDF   ,/dataset/doro_h24,企画課,企画課
+461,   平成22年度交通量調査       PDF   ,/dataset/doro_h22,企画課,企画課
+462,   平成20年度交通量調査       PDF   ,/dataset/doro_h20,企画課,企画課
+463,   広報よこはま瀬谷区版2021（令和３）年１月号       TXT   ,/dataset/seya_seya2021_1,区政推進課,区政推進課
+464,   広報よこはま瀬谷区版2020（令和２）年12月号       TXT   ,/dataset/seya_seya2020_12,区政推進課,区政推進課
+465,   2020（令和２）年分       PDF   ZIP   ,/dataset/tsuzuki_r2tzkoho,区政推進課,区政推進課
+466,   広報よこはま瀬谷区版2020（令和２）年11月号       TXT   ,/dataset/seya_seya2020_11,区政推進課,区政推進課
+467,   令和２年度市立学校現況       ZIP   ,/dataset/kyoiku_r2genkyo,教育政策推進課,教育政策推進課
+468,   【港北区】公共施設等       PDF   xlsx   CSV   ,/dataset/kohoku_shisetsu,区政推進課,区政推進課
+469,   【港北区】避難場所       xlsx   CSV   ,/dataset/kohoku_hinan,区政推進課,区政推進課
+470,   横浜市中期４か年計画2014～2017       PDF   ,/dataset/seisaku_chuki2014-,政策課,政策課
+471,   【港北区】その他の施設等       xlsx   CSV   ,/dataset/kohoku_sonota,区政推進課,区政推進課
+472,   【港北区】保育所・子どもの遊び場等       xlsx   CSV   ,/dataset/kohoku_kodomo,区政推進課,区政推進課
+473,   広報よこはま瀬谷区版2020（令和２）年８月号       TXT   ,/dataset/seya_seya2020_8,区政推進課,区政推進課
+474,   令和元年度市立学校現況       ZIP   ,/dataset/kyoiku_r1genkyo,教育政策推進課,教育政策推進課
+475,   工場立地法オープンデータ       CSV   ,/dataset/keizai_rittiopendata,企業誘致・立地課,企業誘致・立地課
+476,   横浜市都市計画マスタープラン鶴見区プラン（オープンデータ）       xlsx   ,/dataset/tsurumi_tsurumiplan_opendata,区政推進課,区政推進課
+477,   平成26年度市民意識調査       xlsx   ZIP   ,/dataset/seisaku_ishiki2014,政策課,政策課
+478,   広報よこはま瀬谷区版2020（令和２）年３月号       TXT   ,/dataset/seya_seya2020_3,区政推進課,区政推進課
+479,   平成25年(2013)　外国人の人口       xlsx   ,/dataset/gaikokujin_h25gaikokujin,統計情報課,統計情報課
+480,   広報よこはま瀬谷区版令和元年12月号       TXT   ,/dataset/seya_seya2019_12,区政推進課,区政推進課
+481,   広報よこはま瀬谷区版2020（令和２）年１月号       TXT   ,/dataset/seya_seya2020_1,区政推進課,区政推進課
+482,   平成２７年 市場年報       XLS   xlsx   ,/dataset/keizai_201500,運営調整課,運営調整課
+483,   2019（平成31）年分       PDF   ZIP   ,/dataset/tsuzuki_h31tzkoho,区政推進課,区政推進課
+484,   今月の広報よこはま瀬谷区版     ,/dataset/koho_seya_kongetukoho,区政推進課,区政推進課
+485,   広報よこはま瀬谷区版令和元年11月号       TXT   ,/dataset/seya_seya2019_11,区政推進課,区政推進課
+486,   広報よこはま瀬谷区版令和元年10月号       TXT   ,/dataset/seya_seya2019_10,区政推進課,区政推進課
+487,   広報よこはま瀬谷区版令和元年９月号       TXT   ,/dataset/seya_seya2019_09,区政推進課,区政推進課
+488,   広報よこはま瀬谷区版令和元年８月号       TXT   ,/dataset/seya_koyoko2019_08,区政推進課,区政推進課
+489,   広報よこはま瀬谷区版令和元年７月号       TXT   ,/dataset/seya_seya2019_07,区政推進課,区政推進課
+490,   2017（平成29）年分       PDF   ZIP   ,/dataset/tsuzuki_h29tzkoho,区政推進課,区政推進課
+491,   オープンデータ    中区役所窓口混雑情報    PDF   ,/dataset/naka_opendate,戸籍課,戸籍課
+492,   広報よこはま瀬谷区版令和元年５月号       TXT   ,/dataset/seya_koyoko3105,区政推進課,区政推進課
+493,   広報よこはま瀬谷区版平成31年４月号       TXT   ,/dataset/seya_koyoko3104,区政推進課,区政推進課
+494,   防災関連データ       ZIP   XML   CSV   ,/dataset/somu_data,地域防災課,地域防災課
+495,   ごみと資源の総量のオープンデータ       CSV   ,/dataset/shigen_gaiyo_open_deta,政策調整課,政策調整課
+496,   2018（平成30）年分       PDF   ZIP   ,/dataset/tsuzuki_h30tzkoho,区政推進課,区政推進課
+497,   広報よこはま瀬谷区版平成31年２月号       TXT   ,/dataset/seya_koyoko3102,区政推進課,区政推進課
+498,   様々なまちなみ       ZIP   ,/dataset/totsuka_c03-03-other01,区政推進課,区政推進課
+499,   施設       ZIP   ,/dataset/totsuka_c03-04-build01,区政推進課,区政推進課
+500,   旧東街道       ZIP   ,/dataset/totsuka_c02-01-tokaido01,区政推進課,区政推進課
+501,   様々な歴史資源       ZIP   ,/dataset/totsuka_c02-02-other01,区政推進課,区政推進課
+502,   富士山       ZIP   ,/dataset/totsuka_c04-01-mt_fuji01,区政推進課,区政推進課
+503,   下倉田の大わらじ       ZIP   ,/dataset/totsuka_c05-05-warazi01,区政推進課,区政推進課
+504,   公園・緑地       ZIP   ,/dataset/totsuka_c01-01-park01,区政推進課,区政推進課
+505,   植物・その他自然       ZIP   ,/dataset/totsuka_c01-05-other01,区政推進課,区政推進課
+506,   まつり・他       ZIP   ,/dataset/totsuka_c03-05-event01,区政推進課,区政推進課
+507,   川       ZIP   ,/dataset/totsuka_c01-03-riv01,区政推進課,区政推進課
+508,   桜-開花-       ZIP   ,/dataset/totsuka_c01-02-sakura01,区政推進課,区政推進課
+509,   広報よこはま瀬谷区版平成30年９月号       TXT   ,/dataset/seya_koyoko3009,区政推進課,区政推進課
+510,   広報よこはま瀬谷区版平成31年３月号       TXT   ,/dataset/seya_koyoko3103,区政推進課,区政推進課
+511,   広報よこはま瀬谷区版平成31年１月号       TXT   ,/dataset/seya_koyoko3101,区政推進課,区政推進課
+512,   広報よこはま瀬谷区版平成30年６月号       TXT   ,/dataset/seya_koyoko3006,区政推進課,区政推進課
+513,   広報よこはま瀬谷区版平成30年11月号       TXT   ,/dataset/seya_koyoko3011,区政推進課,区政推進課
+514,   雪景色       ZIP   ,/dataset/totsuka_c04-03-snow01,区政推進課,区政推進課
+515,   まさかりが淵市民の森       ZIP   ,/dataset/totsuka_c05-04-masakari01,区政推進課,区政推進課
+516,   航空撮影　ページ１       ZIP   ,/dataset/totsuka_c04-02-sky01,区政推進課,区政推進課
+517,   舞岡公園       ZIP   ,/dataset/totsuka_c05-03-maioka01,区政推進課,区政推進課
+518,   柏尾川の桜       ZIP   ,/dataset/totsuka_c05-02-kashio-riv-sakura01,区政推進課,区政推進課
+519,   動物       ZIP   ,/dataset/totsuka_c01-04-animal,区政推進課,区政推進課
+520,   東戸塚駅周辺のまちなみ       ZIP   ,/dataset/totsuka_c03-02-etotsuka01,区政推進課,区政推進課
+521,   柏尾川       ZIP   ,/dataset/totsuka_c05-01-kashio-riv01,区政推進課,区政推進課
+522,   戸塚駅周辺のまちなみ       ZIP   ,/dataset/totsuka_c03-01-totsuka01,区政推進課,区政推進課
+523,   広報よこはま瀬谷区版平成30年５月号       TXT   ,/dataset/seya_koyoko3005,区政推進課,区政推進課
+524,   広報よこはま瀬谷区版平成30年７月号       TXT   ,/dataset/seya_koyoko3007,区政推進課,区政推進課
+525,   広報よこはま瀬谷区版平成30年８月号       TXT   ,/dataset/seya_koyoko3008,区政推進課,区政推進課
+526,   広報よこはま瀬谷区版平成30年12月号       TXT   ,/dataset/seya_koyoko3012,区政推進課,区政推進課
+527,   広報よこはま瀬谷区版平成30年10月号       TXT   ,/dataset/seya_koyoko3010,区政推進課,区政推進課
+528,   救急需要予測（横浜市立大学との共同研究）    横浜市消防局と横浜市立大学との共同研究（救急需要予測）の結果を公開します。    CSV   ,/dataset/shobo_20171206,救急課,救急課
+529,   横浜市中期４か年計画2018～2021　数値データ       xlsx   CSV   ,/dataset/seisaku_opendata,政策課,政策課
+530,   平成29年度　データで見る商店街事業　商店街商圏データ       xlsx   PDF   ,/dataset/keizai_shogyocyosa,商業振興課,商業振興課
+531,   平成24年度　商店街実態調査　 数値データ       CSV   ,/dataset/keizai_20151007152946,商業振興課,商業振興課
+532,   平成２８年 市場年報       XLS   ,/dataset/keizai_201600,運営調整課,運営調整課
+533,   平成２８年１１月 市場月報       XLS   ,/dataset/keizai_201611,運営調整課,運営調整課
+534,   平成２９年５月 市場月報       XLS   ,/dataset/keizai_201705,運営調整課,運営調整課
+535,   平成２９年４月 市場月報       XLS   ,/dataset/keizai_201704,運営調整課,運営調整課
+536,   平成２９年７月 市場月報       XLS   ,/dataset/keizai_201707,運営調整課,運営調整課
+537,   平成２６年 市場年報       XLS   ,/dataset/keizai_201400,運営調整課,運営調整課
+538,   平成２９年２月 市場月報       XLS   ,/dataset/keizai_201702,運営調整課,運営調整課
+539,   平成２９年３月 市場月報       XLS   ,/dataset/keizai_201703,運営調整課,運営調整課
+540,   平成２９年１月 市場月報       XLS   ,/dataset/keizai_201701,運営調整課,運営調整課
+541,   平成２８年１２月 市場月報       XLS   ,/dataset/keizai_201612,運営調整課,運営調整課
+542,   平成２８年１０月 市場月報       XLS   ,/dataset/keizai_201610,運営調整課,運営調整課
+543,   平成２８年９月 市場月報       XLS   ,/dataset/keizai_201609,運営調整課,運営調整課
+544,   平成２８年８月 市場月報       XLS   ,/dataset/keizai_201608,運営調整課,運営調整課
