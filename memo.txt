@@ -1,0 +1,8 @@
+A good Silhousette Score:
+
+https://medium.com/text-clustering-with-k-means-in-an-automated/text-clustering-with-k-means-in-an-automated-approach-3302b48f98b6
+
+https://stackoverflow.com/questions/66342844/what-is-considered-to-be-a-good-silhouette-score
+
+最佳clustering数量选择
+elbow and David-Boulding

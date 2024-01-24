@@ -9,6 +9,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn import metrics
 
 model = SentenceTransformer('stsb-xlm-r-multilingual')
+# model = SentenceTransformer('oshizo/sbert-jsnli-luke-japanese-base-lite')
+# model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 
 with open('D:\\code\\FCDL\\dataleaves\\extraction.pkl', 'rb') as f:
     fc_all = pd.DataFrame(pickle.load(f))
@@ -38,6 +40,7 @@ def decode_sentence_vector(in_sentence):
 
 def demonstrating_clustering_labels(clustering_model):
     labels = clustering_model.labels_
+    print("----- fitted labels -----")
     print(labels)
 
     # print(fitted_labels)
@@ -48,7 +51,8 @@ def sentence_vector_preprocessing_before_clustering(vectors):
     return norm_vectors, cosine_sim_vectors
 
 def clustering_metrics_evaluation(input_vectors, fitted_labels, model_title, preprocess_method):
-    print("############# Displaying the statistical result of the " + model_title + "with preprocess method of "+ preprocess_method + " #############")
+    # print(fitted_labels)
+    print("\n\n############# Displaying the statistical result of the " + model_title + " with preprocess method of "+ preprocess_method + " #############")
     silhousette = metrics.silhouette_score(input_vectors, fitted_labels)
     print("The Silhousette Score: ", silhousette)
 
@@ -110,4 +114,7 @@ test_kmeans1 = clustering_Kmeans(embeded_test_sentence, 4, "normalization")
 test_kmeans2 = clustering_Kmeans(embeded_test_sentence, 4, "cosine")
 test_kmeans3 = Agglomerative_Clustering(embeded_test_sentence, 4, "normalization")
 test_kmeans4 = Agglomerative_Clustering(embeded_test_sentence, 4, "cosine")
+
+fitted_labels = [0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3]
+clustering_metrics_evaluation(embeded_test_sentence, fitted_labels, "GPT", "Not Specified")
 

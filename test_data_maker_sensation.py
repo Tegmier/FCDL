@@ -25,4 +25,14 @@ test_sentence = pd.DataFrame({
 })
 print(test_sentence.iloc[0][0])
 # print(test_sentence)
-test_sentence.to_csv("D://code//FCDL//test_sentences.csv", index=False)
+test_sentence.to_csv("D://code//FCDL//sentences_sensations.csv", index=False)
+
+list_sentence = []
+for input in list:
+    sentence_list = input.split('。')
+    for sentence in sentence_list:
+        list_sentence.append(sentence)
+
+for sentence in list_sentence:
+    print(sentence)
+print(len(list_sentence))
